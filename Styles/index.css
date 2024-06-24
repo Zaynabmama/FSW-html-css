@@ -40,3 +40,20 @@
         color: #881c1c;
         
     }
+    table {
+        width: 80%;
+        border-collapse: collapse;
+        margin-top: 10px;
+    }
+    
+    th, td {
+        border: 1px solid #ce1a1a;
+        padding: 15px;
+        text-align: center;
+    }
+    
+    th {
+        background-color: #c29f9f;
+        font-weight: bold;
+    }
+    
