@@ -18,7 +18,7 @@
     h1{
         text-align: center;
     }
-    
+
     nav ul {
         text-align: center;
     }
@@ -34,4 +34,9 @@
     nav ul li a {
         color: #375284;
         font-weight: bold;
+    }
+
+    h2, h3 {
+        color: #881c1c;
+        
     }
